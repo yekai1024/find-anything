@@ -1,0 +1,4 @@
+interface:
+  display_name: "Find Anything"
+  short_description: "Discover and verify existing tools before building"
+  default_prompt: "Find and evaluate existing tools, GitHub projects, Agent Skills, MCP servers, and solutions for my goal. Search across different approaches, verify evidence, check what might be missing, and recommend reuse before custom development."
